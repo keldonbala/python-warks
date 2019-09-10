@@ -5,3 +5,4 @@ orange
 green
 purple
 blue
+pink
